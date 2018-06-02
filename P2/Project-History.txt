@@ -1,0 +1,16 @@
+This project aims to build an automated process to match the hosts and refugees based on the rules set up
+
+Input File - Descriptions:
+
+
+
+
+
+1:Host Forms - The google forms available for hosts to sign up and all the details entered by the user
+	Host - https://docs.google.com/forms/d/1chsNYx5dSYm3gJ-Zvt1vRZwV4kIjpiREmmxN43rH6XQ/edit?ts=5a2f674b
+
+2:Guest Forms - The google forms avaialbe for refugees to sign up and contains all the details entered by the user
+	Guest - https://docs.google.com/forms/d/13wKVNOv6QK_geF8JPvD0qqYBtbW0y14aDs8rnehg3jk/edit?ts=5a2f673b
+
+3:Matching Algorithm Rules - The initial draft of rules provided by RWA to create a scoring matrix 
+
